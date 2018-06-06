@@ -9,6 +9,10 @@ abstract class Animal {
 class Cat extends Animal {
 	public void eat() {
 		System.out.println("吃鱼");
+		
+		
+		
+		
 	}
 
 	public void catchMouse() {
